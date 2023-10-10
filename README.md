@@ -1,10 +1,14 @@
 # Getting Started with Create React App
+#This is A simple Frontend for an online Pizza Store Created using React JS framework
+created by @BrianKithusi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+##npm install to install all the Dependencies
 
 ### `npm start`
 
